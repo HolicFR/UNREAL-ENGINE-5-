@@ -14,4 +14,4 @@ tags: [ue5, fundamentals, hub]
 - [[01_Fundamentals/04_Actors_and_Components_Hierarchy|04 Actors & Components Hierarchy]]
 - [[01_Fundamentals/05_World_Settings_and_Project_Settings|05 World Settings & Project Settings]]
 - [[01_Fundamentals/06_Asset_Redirectors_and_Fixup|06 Asset Redirectors & Fixup]]
-- [[01_Fundamentals/07_Keyboard_Shortcuts_and_Workflows|07 Keyboard Shortcuts & Workflows]]
+- [[01_Fundamentals/07_Keyboard_Shortcuts_and_Workflows|07 Keyboard Shortcuts & Workflows
